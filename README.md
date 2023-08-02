@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 🌱 I’m currently a student at CodeSmith
+- 🌱 I’m currently a resident at CodeSmith
 - 📫 Contact me at maxweiner02@gmail.com for all inquiries
 
 <!---

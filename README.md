@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 🌱 I’m currently a resident at CodeSmith
+- 🌱 I’m a software engineer with production level experience in developing full-stack applications
 - 📫 Contact me at maxweiner02@gmail.com for all inquiries
 
 <!---
